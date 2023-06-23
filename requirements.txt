@@ -1,0 +1,6 @@
+opencv-python
+Keras
+numpy
+Pillow
+matplotlib
+scikit-image
